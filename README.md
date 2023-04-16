@@ -1,7 +1,10 @@
 # Online_Learning_System
 Utilized Java, Java Database Connectivity, MySQL to realize an Online Learning System for managers, teachers and students.
 
-# Intruduction
+# Presentation Link
+https://drive.google.com/file/d/1mxdQl3REtEe_L8KDoVJNASOYJk_uzxhv/view?usp=sharing
+
+# Introduction
     With the booming in big data and network system, learning online has been gradually coming into human’s daily life. Studying online and taking exams online has already been crucial parts in some courses. An online-learning-system is designed and implemented with Mysql and Java programming languages, which can satisfy variable requirements from different kinds of people.
     At first, a databse, Online_Learning_System, is created and tables for different functions are also created. After that, create consumers and set the privileges. With the database finished, create functions in Java through the port between Java and Mysql.
 
